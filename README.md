@@ -3,7 +3,6 @@
 - 📫 How to reach me: Discord - ZainTheFake#0001
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to sleep alot
-- 
 <!--
 **ZainTheFake/ZainTheFake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
